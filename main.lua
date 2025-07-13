@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SB-ON-TOP/Visual-Scripts/refs/heads/main/GrowAGarden"))()
+loadstring(game:HttpGet('https://pastefy.app/KfEH8OYy/raw', true))()
